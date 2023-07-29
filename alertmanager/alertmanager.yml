@@ -1,7 +1,7 @@
 global:
   resolve_timeout: 5m
-  smtp_smarthost: smtp.gmail.com:587
-  smtp_from: boriowomoses2@gmail.com
+  smtp_smarthost: smtp.zoho.com:465
+  smtp_from: 'cloudteam@uplandengineering.com'
   
 
 route:
@@ -23,6 +23,6 @@ inhibit_rules:
 receivers:
 - name: 'email-alerts'
   email_configs:
-    - to: 'temiadebayo@gmail.com'
+    - to: 'cloudteam@uplandengineering.com'
       send_resolved: true
 
