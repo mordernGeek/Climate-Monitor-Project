@@ -15,7 +15,7 @@ spec:
         app: nodeapp
     spec:
     containers:
-      image: github-username/climateapp:latest
+      image: clintonnkweke/imagename
       ports:
       - containerPort: 3000
 ---
