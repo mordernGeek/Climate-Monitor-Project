@@ -1,6 +1,6 @@
-#GADS Individual Project by Damilola Olaide Banjoko
+#First Open source project by the Upland Engineering Team
 
-#Climate Change Monitor to measure effect of air pollution data on climate change and increase awareness of environmental pollution globally
+#Climate Change Monitor to measure the effect of air pollution data on climate change and increase awareness of environmental pollution globally
 
 #This project uses the OpenWeather API to measure the current air pollution data based on the user's specified location and informs or recommmends appropriate action based on the retrieved Air Quality Index 
 
