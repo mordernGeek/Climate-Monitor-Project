@@ -12,11 +12,11 @@ Contributing
 License
 
 Introduction
-The Climate Monitoring Gadget is a cutting-edge device designed to provide real-time climate and weather data at your fingertips. Whether you are an outdoor enthusiast, a gardener, or simply curious about the weather around you, this gadget will keep you informed with accurate and up-to-date information.
+The Climate Monitoring App is a team-initiated project currently designed to provide a real-time air pollution index based on your location globally. Whether you are an outdoor enthusiast, a gardener, or simply curious about the weather around you, this gadget will keep you informed with accurate and up-to-date information.
 
-Our mission is to empower individuals and communities with the knowledge they need to make informed decisions about their daily activities and stay prepared for any weather conditions.
+We believe the current pollution index knowledge will enable individuals across the globe need to make informed decisions about their daily activities and stay prepared for any unfavorable pollution weather conditions.
 
-Features
+Proposed Features
 Real-time Data: The gadget constantly gathers data from various sensors to provide you with up-to-date climate information, including temperature, humidity, air pressure, and more.
 
 Intuitive Display: The easy-to-read display shows the current weather conditions, trends, and forecasts in a user-friendly manner.
@@ -88,8 +88,8 @@ We welcome contributions from the community to improve and enhance the Climate M
 Please review our contribution guidelines before making any contributions.
 
 License
-The Climate Monitoring Gadget is released under the MIT License. You are free to use, modify, and distribute the gadget as per the terms of the license.
+The Climate Monitoring App is released under the MIT License. You are free to use, modify, and distribute the gadget as per the terms of the license.
 
-Thank you for choosing the Climate Monitoring Gadget! We hope it brings you valuable insights into the climate around you and helps you make informed decisions. If you have any questions or feedback, please don't hesitate to reach out to our support team at UPLANDSUPPORT.COM
+Thank you for choosing the Climate Monitoring Gadget! We hope it brings you valuable insights into the climate around you and helps you make informed decisions. If you have any questions or feedback, please don't hesitate to reach out to our support team at support@uplandengineering.com
 
 Happy Monitoring!
