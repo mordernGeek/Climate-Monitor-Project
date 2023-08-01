@@ -1,28 +1,25 @@
 global:
   resolve_timeout: 5m
-  smtp_smarthost: smtp.zoho.com:465
-  smtp_from: 'cloudteam@uplandengineering.com'
-  
 
 route:
   group_by: ['alertname']
   group_wait: 10s
   group_interval: 10s
   repeat_interval: 1h
-  receiver: email-alerts
-
-
-inhibit_rules:
-    - source_match:
-        severity: 'critical'
-      target_match:
-        severity: 'warning'
-      equal: ['alertname']
-    
+  receiver: slack-alerts
 
 receivers:
-- name: 'email-alerts'
-  email_configs:
-    - to: 'cloudteam@uplandengineering.com'
-      send_resolved: true
+- name: 'slack-alerts'
+  slack_configs:
+  - api_url: ##provide your slack channel here
+    channel: '#cloudteam'  # Replace with the name of your Slack channel (e.g., #general)
+    send_resolved: true
+    http_config:
+      bearer_token: # Replace with the access token you obtained from Slack
 
+inhibit_rules:
+  - source_match:
+      severity: 'critical'
+    target_match:
+      severity: 'warning'
+    equal: ['alertname']
