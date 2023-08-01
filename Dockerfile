@@ -1,7 +1,7 @@
 ## docker file for Climate Monitor Project - GADS
 
 FROM python:3.8
-LABEL owner="Kenechukwu Nzute"
+LABEL maintainer="Upland Engineering Cloud Team"
 EXPOSE 5000
 WORKDIR /climate-monitor-gads
 COPY ./ .
