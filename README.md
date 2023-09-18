@@ -12,20 +12,17 @@ Contributing
 License
 
 Introduction
-The Climate Monitoring App is a team-initiated project currently designed to provide a real-time air pollution index based on your location globally. Whether you are an outdoor enthusiast, a gardener, or simply curious about the weather around you, this gadget will keep you informed with accurate and up-to-date information.
+Research shows that polluted air is casuing the same symptoms found in the lungs of smokers in non-smokers, not only that, every organ in the body is affected adversely by polluted air and this can  have adverse impact from birth, leading to respiratory diseases and other forms of degenerative diseases.
 
-We believe the current pollution index knowledge will enable individuals across the globe need to make informed decisions about their daily activities and stay prepared for any unfavorable pollution weather conditions.
+We believe the current pollution index knowledge will enable individuals and governments alike across the globe need to make informed decisions about their daily activities and take the relevant steps towards fighting off air pollution 
+
+By contributing to this project, you help make cities and human settlements inclusive, safe, resilient and sustainable, thus contibuting towards SDG Goal 11.
 
 Proposed Features
-Real-time Data: The gadget constantly gathers data from various sensors to provide you with up-to-date climate information, including temperature, humidity, air pressure, and more.
-
-Intuitive Display: The easy-to-read display shows the current weather conditions, trends, and forecasts in a user-friendly manner.
-
-Wireless Connectivity: The SOFTWARE connects seamlessly to your smartphone or tablet via Bluetooth, allowing you to access detailed weather data on the go.
-
-Customizable Alerts: Set personalized alerts for specific weather conditions, such as extreme temperatures or sudden weather changes.
 
 Data History: Access historical climate data to analyze trends and patterns over time.
+
+Integration with Health Facilities to measure and 
 
 Installation
 
@@ -35,7 +32,7 @@ Installation
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>] git@github.com:Davintus/climate-monitor-gads.git
+The project is currently packaged as a container image - docker pull morderngeek/airine
 
 ### Python/MONITORING application
 
@@ -83,13 +80,11 @@ Stop and remove the containers
 $ docker compose down
 
 Contributing
-We welcome contributions from the community to improve and enhance the Climate Monitoring Gadget. If you have any ideas, bug fixes, or feature suggestions, feel free to open an issue or submit a pull request on our GitHub repository.
-
-Please review our contribution guidelines before making any contributions.
+The project is open source and uses the Open Weather API 
 
 License
-The Climate Monitoring App is released under the MIT License. You are free to use, modify, and distribute the gadget as per the terms of the license.
+The Climate Monitoring App is released under the GPL License. 
 
-Thank you for choosing the Climate Monitoring Gadget! We hope it brings you valuable insights into the climate around you and helps you make informed decisions. If you have any questions or feedback, please don't hesitate to reach out to our support team at support@uplandengineering.com
+We hope it brings you valuable insights into the climate around you and helps you make informed decisions. If you have any questions or feedback, please don't hesitate to reach out to our support team at support@uplandengineering.com
 
-Happy Monitoring!
+Happy Contributing!
