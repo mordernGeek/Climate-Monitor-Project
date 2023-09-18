@@ -14,7 +14,7 @@ License
 Introduction
 Research shows that polluted air is casuing the same symptoms found in the lungs of smokers in non-smokers, not only that, every organ in the body is affected adversely by polluted air and this can  have adverse impact from birth, leading to respiratory diseases and other forms of degenerative diseases.
 
-We believe the current pollution index knowledge will enable individuals and governments alike across the globe need to make informed decisions about their daily activities and take the relevant steps towards fighting off air pollution 
+We believe the current pollution index knowledge will enable individuals and governments alike across the globe need to make informed decisions about their daily activities and take the relevant steps towards fighting off air pollution effects on our ecosystem.
 
 By contributing to this project, you help make cities and human settlements inclusive, safe, resilient and sustainable, thus contibuting towards SDG Goal 11.
 
